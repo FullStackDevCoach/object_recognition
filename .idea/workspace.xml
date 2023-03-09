@@ -7,7 +7,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="969ae915-c556-4dc8-b374-b1a3ee9ede27" name="Changes" comment="" />
+    <list default="true" id="969ae915-c556-4dc8-b374-b1a3ee9ede27" name="Changes" comment="object rec!">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,6 +69,14 @@
       <option name="presentableId" value="Default" />
       <updated>1674667158714</updated>
     </task>
+    <task id="LOCAL-00001" summary="object rec!">
+      <created>1678387068399</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678387068400</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -79,6 +89,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="object rec!" />
+    <option name="LAST_COMMIT_MESSAGE" value="object rec!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
